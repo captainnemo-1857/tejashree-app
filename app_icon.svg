@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Background -->
+  <rect width="512" height="512" rx="100" fill="#e07b30"/>
+
+  <!-- Om symbol (simplified) -->
+  <text x="256" y="220" font-family="serif" font-size="180" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" opacity="0.15">ॐ</text>
+
+  <!-- Lotus petals -->
+  <g transform="translate(256,230)">
+    <ellipse cx="0" cy="-60" rx="18" ry="38" fill="#fff" opacity="0.9" transform="rotate(0)"/>
+    <ellipse cx="0" cy="-60" rx="18" ry="38" fill="#fff" opacity="0.9" transform="rotate(45)"/>
+    <ellipse cx="0" cy="-60" rx="18" ry="38" fill="#fff" opacity="0.9" transform="rotate(90)"/>
+    <ellipse cx="0" cy="-60" rx="18" ry="38" fill="#fff" opacity="0.9" transform="rotate(135)"/>
+    <ellipse cx="0" cy="-60" rx="18" ry="38" fill="#fff" opacity="0.9" transform="rotate(180)"/>
+    <ellipse cx="0" cy="-60" rx="18" ry="38" fill="#fff" opacity="0.9" transform="rotate(225)"/>
+    <ellipse cx="0" cy="-60" rx="18" ry="38" fill="#fff" opacity="0.9" transform="rotate(270)"/>
+    <ellipse cx="0" cy="-60" rx="18" ry="38" fill="#fff" opacity="0.9" transform="rotate(315)"/>
+    <!-- Center circle -->
+    <circle cx="0" cy="0" r="28" fill="#fdf8f3"/>
+    <circle cx="0" cy="0" r="18" fill="#e07b30"/>
+  </g>
+
+  <!-- Bottom text -->
+  <text x="256" y="420" font-family="-apple-system, sans-serif" font-size="42" fill="#ffffff" text-anchor="middle" font-weight="700" letter-spacing="2">MY LIFE</text>
+  <text x="256" y="465" font-family="-apple-system, sans-serif" font-size="30" fill="#faeeda" text-anchor="middle" font-weight="400" letter-spacing="4">DASHBOARD</text>
+</svg>
